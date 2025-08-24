@@ -2,7 +2,7 @@
 
 # Tdarr-LXC-Proxmox
 
-### Tdarr Setup using a LXC Container in Proxmox 8.3.5 Hypervisor
+### Tdarr Setup using a LXC Container in Proxmox 8.4.11 Hypervisor
 
 #### System
 
